@@ -1,0 +1,7 @@
+C:\VS_Projects\YrNoXmlWeather\YrNoXmlWeather\bin\Debug\YrNoXmlWeather.exe.config
+C:\VS_Projects\YrNoXmlWeather\YrNoXmlWeather\bin\Debug\YrNoXmlWeather.exe
+C:\VS_Projects\YrNoXmlWeather\YrNoXmlWeather\bin\Debug\YrNoXmlWeather.pdb
+C:\VS_Projects\YrNoXmlWeather\YrNoXmlWeather\obj\Debug\YrNoXmlWeather.csprojAssemblyReference.cache
+C:\VS_Projects\YrNoXmlWeather\YrNoXmlWeather\obj\Debug\YrNoXmlWeather.csproj.CoreCompileInputs.cache
+C:\VS_Projects\YrNoXmlWeather\YrNoXmlWeather\obj\Debug\YrNoXmlWeather.exe
+C:\VS_Projects\YrNoXmlWeather\YrNoXmlWeather\obj\Debug\YrNoXmlWeather.pdb
